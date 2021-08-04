@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Newsreader:wght@300&display=swap');
+:root{
+   --white:#000000;
+}
+
+.white-color{
+    color: var(--white);
+
+}
+
+.navbar{
+    font-family: 'Jua', sans-serif
+}
+
+.central-content{
+    font-family:'Newsreader', serif; ;
+}
